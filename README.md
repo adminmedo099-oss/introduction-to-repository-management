@@ -2,7 +2,7 @@
 
 _Learn the basics of several GitHub features that can help support a collaborative, friendly, and healthy project._
 
-## Welcome
+## Helo
 
 - **Who is this for**: Developers with the need to start collaborating.
 - **What you'll learn**: The different ways to protect your repository's content as more people join as collaborators.
